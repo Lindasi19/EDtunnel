@@ -1,7 +1,7 @@
 # EDtunnel
 
 <p align="center">
-  <img src="https://cloudflare-ipfs.com/ipfs/bafybeigd6i5aavwpr6wvnwuyayklq3omonggta4x2q7kpmgafj357nkcky" alt="edgetunnel" style="margin-bottom: -50px;">
+  <img src="https://raw.githubusercontent.com/Lindasi19/EDtunnel/refs/heads/main/.github/workflows/68747470733a2f2f697066732e696f2f697066732f6261667962656967643669356161767770723677766e77757961796b6c71336f6d6f6e6767746134783271376b706d6761666a3335376e6b636b79.webp" alt="edgetunnel" style="margin-bottom: -50px;">
 </p>
 
 GitHub Repository for [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
